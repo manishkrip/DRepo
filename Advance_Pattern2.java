@@ -1,6 +1,6 @@
 import java.util.*;
-
-public class Advance_Patten2 {
+//manish kripalani
+public class Advance_Pattern2 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
